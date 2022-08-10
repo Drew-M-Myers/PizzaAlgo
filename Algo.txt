@@ -1,10 +1,12 @@
 Step 1: Decide which pizza place to order from. 
+Step 1.1: look online for best deal bundle
 Step 2: Decide type of pizza and desiered toppings. 
 Step 3: Look up phone number from internet. 
 Step 4: Call and place order.
 Step 5: Wait designated time for pizza to be ready. 
 Step 6: Drive to location.
 Step 7: Pay for pizza. 
+Step 7.1: Leave a tip.
 Step 8: Pick up pizza.
 Step 9: Drive home. 
 Step 10: Enjoy
